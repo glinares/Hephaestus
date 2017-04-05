@@ -11,7 +11,7 @@ Current list of implemented Features in Hephaestus as of April 4th, 2017:
     Standard procedure randomized variables and functions 
     
   - Anti-Entropic Variable Generation  
-    Using commonly US-language occurring variables in typical business VBA modules to name variables to avoid randomized variable    detection.
+    Using commonly used (US-language) variables in typical business VBA modules to name variables & functions to avoid randomized variable detection.
     
   - VBA Constant String Building  
     String and characters can be generated from string constants in VBA to avoid using string variables.
